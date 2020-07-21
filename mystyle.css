@@ -1,0 +1,14 @@
+body
+	{
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:#000099;
+	}
+	h3,li{
+	font-style:italic;
+	color:#000099;
+	font-weight:1000;
+	}
+	h1 {
+  text-decoration: underline;
+}
